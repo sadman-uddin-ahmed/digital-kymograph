@@ -1,5 +1,4 @@
 # Digital Kymograph Data Acquisition System
-
 Arduino-based data-acquisition prototype for digitizing mechanical stylus movement from an analogue kymograph setup.
 
 The system uses an Arduino Uno and an ADXL335 three-axis accelerometer. The accelerometer is mechanically coupled to the kymograph stylus so that stylus motion can be sampled and streamed to a computer for visualization and later analysis.
