@@ -4,7 +4,7 @@ Arduino-based data-acquisition prototype for digitizing mechanical stylus moveme
 
 The system uses an Arduino Uno and an ADXL335 three-axis accelerometer. The accelerometer is mechanically coupled to the kymograph stylus so that stylus motion can be sampled and streamed to a computer for visualization and later analysis.
 
-![Experimental kymograph setup](assets/experimental-setup.jpg)
+![Experimental kymograph setup](assets/converntional-kymograph-system.jpg)
 
 ## Project overview
 
@@ -76,11 +76,12 @@ digital-kymograph/
 
 ### Arduino and accelerometer interface
 
-![Arduino Uno and ADXL335 interface](assets/arduino-adxl335-interface.jpg)
+![Arduino Uno interface](assets/arduino-uno.jpg)
+![ADXL335 interface](assets/adxl335-accelerometer.jpg)
 
 ### Conventional kymograph reference apparatus
 
-![Conventional kymograph apparatus](assets/conventional-kymograph-reference.jpg)
+![Conventional kymograph apparatus](assets/converntional-kymograph-system.jpg)
 
 ### Example recorded response trace
 
